@@ -82,7 +82,7 @@ They helped in grouping sales data by category, segment, state, and sub-category
 <h2>🖼️ Dashboard Screenshot</h2>
 
 
-<img src="images/excel-dashboard.png" alt="Excel Dashboard" width="100%">
+<img src="" alt="Excel Dashboard" width="100%">
 
 <hr>
 
