@@ -101,7 +101,6 @@ They helped in grouping sales data by category, segment, state, and sub-category
 
 <ul>
   <li>Data Analysis</li>
-  <li>Business Intelligence</li>
   <li>Dashboard Development</li>
   <li>Excel Reporting</li>
   <li>Data Visualization</li>
